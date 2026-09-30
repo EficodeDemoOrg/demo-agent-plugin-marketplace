@@ -3,16 +3,16 @@
   "metadata": {
     "description": "Marketplace for Agent Plugins",
     "version": "1.0.0",
-    "repository": "https://github.com/aatmmr/agent-marketplace-template"
+    "repository": "https://github.com/EficodeDemoOrg/demo-agent-pluing-marketplace"
   },
   "owner": {
-    "name": "aatmmr"
+    "name": "EficodeDemoOrg"
   },
   "plugins": [
     {
-      "name": "demo-plugin",
-      "source": "./plugins/demo-plugin",
-      "description": "Simple demo plugin for testing and demonstration purposes."
+      "name": "ui-test-engineer",
+      "source": "./plugins/ui-test-engineer",
+      "description": "Explore live web applications and create reliable, auditable Playwright UI tests."
     }
   ]
 }

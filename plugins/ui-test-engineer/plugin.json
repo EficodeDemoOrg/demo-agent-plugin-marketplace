@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ui-test-engineer",
+  "description": "Explore web applications and create reliable Playwright UI tests with a focused test engineer agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aatmmr"
+  },
+  "repository": "https://github.com/aatmmr/agent-marketplace-template/tree/main/plugins/ui-test-engineer",
+  "license": "Proprietary",
+  "keywords": [
+    "playwright",
+    "ui-testing",
+    "test-automation",
+    "quality-assurance"
+  ]
+}

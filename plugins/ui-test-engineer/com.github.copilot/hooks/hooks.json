@@ -1,0 +1,11 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "type": "command",
+        "command": "node \"${PLUGIN_ROOT}/scripts/log-test-change.mjs\"",
+        "timeout": 10
+      }
+    ]
+  }
+}

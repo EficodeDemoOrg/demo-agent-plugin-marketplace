@@ -27,4 +27,4 @@ automatically in Copilot Chat. Access to this repository may require appropriate
 
 | Plugin | Description | Skills |
 | --- | --- | --- |
-| (Add your plugins here) | | |
+| [UI Test Engineer](plugins/ui-test-engineer/README.md) | Explore live web applications and create reliable, auditable Playwright UI tests. | [Writing Playwright Tests](plugins/ui-test-engineer/skills/writing-playwright-tests/SKILL.md) |
