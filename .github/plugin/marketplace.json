@@ -1,9 +1,9 @@
 {
-  "name": "eficode-demo-agent-pluing-marketplace",
+  "name": "eficode-demo-agent-plugin-marketplace",
   "metadata": {
     "description": "Example marketplace for Agent Plugins",
     "version": "1.0.0",
-    "repository": "https://github.com/EficodeDemoOrg/demo-agent-pluing-marketplace"
+    "repository": "https://github.com/EficodeDemoOrg/demo-agent-plugin-marketplace"
   },
   "owner": {
     "name": "EficodeDemoOrg"

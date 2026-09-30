@@ -10,7 +10,7 @@ Assets are packaged as [VS Code agent plugins](https://code.visualstudio.com/doc
 
    ```jsonc
    "chat.plugins.marketplaces": [
-       "EficodeDemoOrg/demo-agent-pluing-marketplace"
+       "EficodeDemoOrg/demo-agent-plugin-marketplace"
    ]
    ```
 

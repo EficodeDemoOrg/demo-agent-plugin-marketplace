@@ -8,7 +8,7 @@ Register this marketplace in VS Code settings:
 
 ```jsonc
 "chat.plugins.marketplaces": [
-  "EficodeDemoOrg/demo-agent-pluing-marketplace"
+  "EficodeDemoOrg/demo-agent-plugin-marketplace"
 ]
 ```
 
