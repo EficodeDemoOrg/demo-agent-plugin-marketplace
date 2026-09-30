@@ -1,6 +1,6 @@
 # Agent Marketplace Template
 
-A template repository for building and maintaining a marketplace of AI-supporting assets, including Skills, Agents, and related helpers for VS Code Copilot Chat.
+A demo repository for building and maintaining a marketplace of AI-supporting assets, including Skills, Agents, Hooks etc for VS Code Copilot Chat.
 
 Assets are packaged as [VS Code agent plugins](https://code.visualstudio.com/docs/agent-customization/agent-plugins) and made available through this marketplace repository.
 
@@ -28,15 +28,3 @@ automatically in Copilot Chat. Access to this repository may require appropriate
 | Plugin | Description | Skills |
 | --- | --- | --- |
 | (Add your plugins here) | | |
-
-## Contributing
-
-To add a new plugin to the marketplace:
-
-1. Create a folder under `plugins/<your-plugin>/`.
-2. Add a `plugin.json` with `name`, `description`, and `version`.
-3. Add one or more skills under `skills/<skill-name>/SKILL.md`.
-4. Register the plugin in [`.github/plugin/marketplace.json`](.github/plugin/marketplace.json).
-5. Bump the `version` when you publish changes.
-
-See the [VS Code agent plugins docs](https://code.visualstudio.com/docs/agent-customization/agent-plugins) for the full plugin structure and authoring details.
