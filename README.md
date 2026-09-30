@@ -1,4 +1,4 @@
-# Agent Marketplace Template
+# Eficode Demo Agent Plugin Marketplace
 
 A demo repository for building and maintaining a marketplace of AI-supporting assets, including Skills, Agents, Hooks etc for VS Code Copilot Chat.
 
@@ -25,6 +25,6 @@ automatically in Copilot Chat. Access to this repository may require appropriate
 
 ## Available Plugins
 
-| Plugin | Description | Skills |
-| --- | --- | --- |
-| [UI Test Engineer](plugins/ui-test-engineer/README.md) | Explore live web applications and create reliable, auditable Playwright UI tests. | [Writing Playwright Tests](plugins/ui-test-engineer/skills/writing-playwright-tests/SKILL.md) |
+| Plugin | Description | Agents | Skills | Hooks | MCP Servers |
+| --- | --- | --- | --- | --- | --- |
+| [UI Test Engineer](plugins/ui-test-engineer/README.md) | Explore live web applications and create reliable, auditable Playwright UI tests. | [Test Engineer](plugins/ui-test-engineer/com.github.copilot/agents/test-engineer.agent.md) | [Writing Playwright Tests](plugins/ui-test-engineer/skills/writing-playwright-tests/SKILL.md) | [Test Change Log](plugins/ui-test-engineer/com.github.copilot/hooks/hooks.json) | [Playwright](plugins/ui-test-engineer/mcp.json) |
