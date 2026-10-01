@@ -6,7 +6,7 @@
   "author": {
     "name": "jtluoto"
   },
-  "repository": "https://github.com/aatmmr/agent-marketplace-template/tree/main/plugins/ui-test-engineer",
+  "repository": "https://github.com/EficodeDemoOrg/demo-agent-plugin-marketplace/tree/main/plugins/ui-test-engineer",
   "license": "Proprietary",
   "keywords": [
     "playwright",
