@@ -4,7 +4,7 @@
   "description": "Explore web applications and create reliable Playwright UI tests with a focused test engineer agent.",
   "version": "1.0.0",
   "author": {
-    "name": "aatmmr"
+    "name": "jtluoto"
   },
   "repository": "https://github.com/aatmmr/agent-marketplace-template/tree/main/plugins/ui-test-engineer",
   "license": "Proprietary",
